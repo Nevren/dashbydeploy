@@ -15,5 +15,5 @@ module.exports = {
      }
    },
   ],
-  pathPrefix: `/dashbydeploy`
+  pathPrefix: `/dashbydeploy/`
 }
